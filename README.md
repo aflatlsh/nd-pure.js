@@ -19,9 +19,13 @@ let X = new N(m, v);
 X.expect // expectation (μ)
 X.median // median
 X.mode // mode
-// In fact the expectation equals the median and the mode
+// In fact the expectation always equals the median and the mode
 
 X.variance // variance (σ²)
 X.std // standard deviation (σ)
 
+X.skewness // skewness = 0
+X.kurtosis // kurtosis = 0
+
+X.entropy // entropy (lnσ√{2πe})
 ```
