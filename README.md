@@ -11,9 +11,17 @@ const N = require(PATH)
 ```js
 let X = new N(m, v);
 ```
-`m`
+`m` = expectation (μ)
+`v` = variance (σ² > 0)
 
 ### properties
 ```js
-X.expect
+X.expect // expectation (μ)
+X.median // median
+X.mode // mode
+// In fact the expectation equals the median and the mode
+
+X.variance // variance (σ²)
+X.std // standard deviation (σ)
+
 ```
