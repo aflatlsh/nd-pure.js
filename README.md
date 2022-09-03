@@ -9,5 +9,11 @@ const N = require(PATH)
 ## Docs
 ### constructor(m, v)
 ```js
-let X = new N(0, 1)
+let X = new N(m, v);
+```
+`m`
+
+### properties
+```js
+X.expect
 ```
