@@ -36,12 +36,12 @@ X.pdf(x)
 ```
 
 ### cumulative distribution function (cdf)
-```
+```js
 X.cdf(x)
 ```
 
 ### moment generating function (mgf)
-```
+```js
 X.mgf(t)
 ```
 
