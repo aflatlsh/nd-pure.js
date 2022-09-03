@@ -29,3 +29,20 @@ X.kurtosis // kurtosis = 0
 
 X.entropy // entropy (lnσ√{2πe})
 ```
+
+### probability density function (pdf)
+```js
+X.pdf(x)
+```
+
+### cumulative distribution function (cdf)
+```
+X.cdf(x)
+```
+
+### moment generating function (mgf)
+```
+X.mgf(t)
+```
+
+
