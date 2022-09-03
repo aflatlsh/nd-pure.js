@@ -1,5 +1,5 @@
 # simple-jgbp
-간단한 정규분포
+Simple normal distribution for JS
 
 ## Get Started
 ```js
