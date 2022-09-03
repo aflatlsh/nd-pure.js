@@ -49,7 +49,7 @@ class N {
         this.std = Math.sqrt(v);
         
         this.#m = m;
-        this.#s = this.stddev-0;
+        this.#s = this.std-0;
     }
 
     pdf (x) {
