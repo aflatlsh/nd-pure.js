@@ -35,13 +35,13 @@ X.entropy // entropy (lnσ√{2πe})
 ```js
 X.pdf(x)
 ```
-<img src="/assets/simple-jgbp_pdf.png" height="45px">
+<img src="/assets/simple-jgbp_pdf.png" height="50px">
 
 ### cumulative distribution function (cdf)
 ```js
 X.cdf(x)
 ```
-<img src="/assets/simple-jgbp_cdf.png" height="45px"><br/>
+<img src="/assets/simple-jgbp_cdf.png" height="50px"><br/>
 erf(x) implementation: [ghewgill/picomath](https://github.com/ghewgill/picomath)
 
 ### moment generating function (mgf)
