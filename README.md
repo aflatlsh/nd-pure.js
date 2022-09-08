@@ -40,6 +40,8 @@ X.pdf(x)
 X.cdf(x)
 ```
 
+erf(x) implementation: [ghewgill/picomath](https://github.com/ghewgill/picomath)
+
 ### moment generating function (mgf)
 ```js
 X.mgf(t)
