@@ -34,6 +34,7 @@ X.entropy // entropy (lnσ√{2πe})
 ```js
 X.pdf(x)
 ```
+<img src="/assets/simple-jgbp_pdf.png">
 
 ### cumulative distribution function (cdf)
 ```js
