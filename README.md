@@ -41,7 +41,7 @@ X.pdf(x)
 ```js
 X.cdf(x)
 ```
-
+<img src="/assets/simple-jgbp_cdf.png"><br/>
 erf(x) implementation: [ghewgill/picomath](https://github.com/ghewgill/picomath)
 
 ### moment generating function (mgf)
