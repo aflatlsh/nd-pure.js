@@ -6,12 +6,12 @@ Simple Normal Distribution for JS
 const N = require(PATH)
 ```
 
-## Docs
+## Use
 ### constructor(m, v)
 ```js
 let X = new N(m, v);
 ```
-`m` = expectation (μ)
+`m` = expectation (μ)<br/>
 `v` = variance (σ² > 0)
 
 ### properties
