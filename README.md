@@ -1,5 +1,5 @@
 # simple-jgbp
-Simple Normal Distribution for Pure JS
+Simple Normal Distribution for JS
 
 ## Get Started
 ```js
