@@ -30,9 +30,6 @@ X.kurtosis // kurtosis = 0
 X.entropy // entropy (lnσ√{2πe})
 ```
 
-```math
-f(x)=x^2
-```
 
 ### probability density function (pdf)
 ```js
