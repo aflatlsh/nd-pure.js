@@ -1,5 +1,5 @@
-# simplend
-simple normal distribution
+# nd-pure.js
+Pure javascript normal distribution library.
 
 ## Get Started
 ```js
